@@ -1,0 +1,14 @@
+﻿  ConsoleApplication10(mstu3).cpp
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3).cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Fraction.cpp
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(53,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(60,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(69,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(79,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(85,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(92,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(98,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(105,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\ConsoleApplication10(mstu3)\Fraction.cpp(113,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication10(mstu3).vcxproj -> C:\Users\onlyd\source\repos\ConsoleApplication10(mstu3)\x64\Debug\ConsoleApplication10(mstu3).exe
